@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Data Structures and Algorithms
+- 🌱 I’m currently learning boring college courses
+- 💬 Ask me about how to be an ordinary person
+- 📫 How to reach me: tianbosong2674@gmail.com
+- 😄 Pronouns: 大学牲
+- ⚡ Fun fact: ...
 <!--
 **tianbosong/tianbosong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
